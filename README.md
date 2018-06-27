@@ -1,3 +1,3 @@
 # TributeReact
 
-readme
+A tribute page using react.js
